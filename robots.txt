@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gjrian.github.io/qty/sitemap.qty.gz
